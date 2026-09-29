@@ -1,5 +1,5 @@
 # tryColors
-Ever wanted to generate harmonious color in any language? Look no further than Try Colors,
+Ever wanted to generate harmonious color in any language? Look no further than Try Colors. Try and make good colors!
 
 # Generation Spec
 The Color System (one to five input colors)
